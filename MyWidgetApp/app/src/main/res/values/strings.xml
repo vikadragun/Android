@@ -1,0 +1,9 @@
+<resources>
+    <string name="widget_name">My widget</string>
+    <string name="widget_text">Выберите цвет фона:</string>
+    <string name="red">Красный</string>
+    <string name="green">Зелёный</string>
+    <string name="blue">Синий</string>
+    <string name="yellow">Жёлтый</string>
+    <string name="ok">Сохранить</string>
+</resources>
